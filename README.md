@@ -39,5 +39,6 @@
    git push origin new-feature
 ```
 
->
-以上命令中的origin表示远程仓库的名称，main表示主分支的名称，new-feature表示新分支的名称。根据您的实际情况进行相应的调整。
+> 以上命令中的origin表示远程仓库的名称，main表示主分支的名称，new-feature表示新分支的名称。根据您的实际情况进行相应的调整。
+
+> 想了解更多，请查看Git学习教程：https://www.liaoxuefeng.com/wiki/896043488029600
